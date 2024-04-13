@@ -15,12 +15,15 @@ Possible Issues:
 * Naming conflicts - You might already have notes with similar titles
 * Plugins - Some plugins may cause unanticipated formatting changes
 
-# Erratta
+# Apologists and Scientists
 ## Tah
 I wanted a simple name for a benevelont, though distant creator. who outsourced creation to lesser entities.  Tah is British and Australian (possibly elsewhere) slang for "Thanks".  (Spelled "Ta").
 
 ## Quarks and Sciency Stuff
 I wanted some tie in to our understanding of the universe.  So the vibrations that Tah creates at the beginning are the vibrations that fragment into strings - and the strings, poking into the universe, are the basis of the fundamental sub-particles.  My understanding of this is limited and this is all fiction, so I may get it wrong.  Send a PR if you have a better idea.
+
+## The Song
+I really liked the imagry of The Silmarillion where creation was born of a song.  Although the vibration making a single note is presented, I want you to imagine something well beyond the frequencies of ultra-violet light and into the string theory range of vibrating energy.  
 
 ## Timelines
 I don't have actual dates on these events.  We can put that together later.  While Tah sleeps, I am imagining billions of years pass.
